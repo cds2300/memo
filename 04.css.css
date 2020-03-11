@@ -1,0 +1,15 @@
+.mytitle {
+    color: white;
+    text-align: center;
+    background-image: url('https://imgsnacker.hankyung.com/wp-content/uploads/2019/07/forest-3315896_1920-600x400.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+  }
+  .container {
+      display:flex;
+      flex-direction: column;
+      align-items: center;
+  }
